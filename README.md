@@ -1,3 +1,7 @@
+# PHP URL Shortner
+
+Your url will be like: myurl.com/sale = amazon.com/blablaAffiliates...
+
 Todo for you: 
 1) Add these two php files to the folder: /var/www/links
 2) Install php-fpm 8.2 or higher
