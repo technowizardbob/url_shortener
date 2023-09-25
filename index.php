@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Robert Strutts
+ * @author Bob S. (Tips@TechnoWizardBob.com)
  * @copyright 2023
  * @license MIT
  */
